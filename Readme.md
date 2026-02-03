@@ -31,7 +31,7 @@
 ## 📂 Projects
 
 ### 🔗 URL Shortener with Analytics
-> URL shortening service with Redis cache-aside, async click tracking (GeoIP, browser detection), and rate limiting. p95 redirect latency ~9ms.
+> URL shortening service with Redis cache-aside, async click tracking, and rate limiting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-for-badge&logo=fastapi&logoColor=white)
