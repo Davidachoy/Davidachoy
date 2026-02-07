@@ -39,4 +39,15 @@
 ![Redis](https://img.shields.io/badge/Redis-D00000?style=flat-for-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496CB?style=flat-for-badge&logo=docker&logoColor=white)
 
+### 🧠 GitHub Profile README Generator
+> GitHub profile README generator built as a multi-agent, AI-native development experiment, leveraging GitHub REST API, modular markdown builders, and structured orchestration.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-for-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-for-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-for-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-for-badge&logo=vite&logoColor=white)
+
+---
+
 ---
